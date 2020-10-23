@@ -1,13 +1,13 @@
-{
+ {
     "PymultipleChoice" :[
         {
         "type" : "multiple-choice",
         "question" : "What do you use to create a function in Python?",
-        "choice1" : "def",
-        "choice2" : "def",
+        "choice1" : "func",
+        "choice2" : "function",
         "choice3" : "def",
-        "choice4" : "def",
-        "answer": 1
+        "choice4" : "void",
+        "answer": 3
          
         },
         {
@@ -16,7 +16,8 @@
         "choice1" : "list",
         "choice2" : "array",
         "choice3" : "def",
-        "choice4" : "function"
+        "choice4" : "function",
+        "answer": 2
         }, 
         {
             "type" : "multiple-choice",
@@ -24,7 +25,8 @@
            "choice1" : "Guido Van Rossum",
            "choice2" : "LeBron James",
            "choice3" : "Bill Gates",
-           "choice4" : "Steve Harvey"
+           "choice4" : "Steve Harvey",
+           "answer": 1
         }, 
         {
         "type" : "multiple-choice",
@@ -32,7 +34,8 @@
         "choice1" : "print('Hello World')",
         "choice2" : "p('Hello World')",
         "choice3" : "def('Hello World')",
-        "choice4" : "func('Hello World')"
+        "choice4" : "func('Hello World')",
+        "answer": 1
         }, 
         {
         "type" : "multiple-choice",
@@ -40,8 +43,9 @@
         "choice1" : "British Comedy Group",
         "choice2" : "Movie",
         "choice3" : "Snake",
-        "choice4" : "Rat" 
-           }
+        "choice4" : "Rat",
+        "answer": 1 
+        }
     ],
 
     "PyfillInBlank": [
@@ -50,46 +54,50 @@
         "question" : "A _____ is used to store values in python",
         "choice1" : "print('Hello World')",
         "choice2" : "def",
-        "choice3" : "def",
-        "choice4" : "def" 
+        "choice3" : "value",
+        "choice4" : "array",
+        "answer": 3 
         
     },
     {
         "type" : "fill-in-blank",
         "question" : "A ______ is used to store blocks of code",
         "choice1" : "print('Hello World')",
-        "choice2" : "def",
-        "choice3" : "def",
-        "choice4" : "def" 
+        "choice2" : "function",
+        "choice3" : "lunch box",
+        "choice4" : "def", 
+        "answer": 2
         
     },
 
     {
         "type" : "fill-in-blank",
-        "question" : "A ______ is used to store blocks of code",
-        "choice1" : "print('Hello World')",
-        "choice2" : "def",
-        "choice3" : "def",
-        "choice4" : "def" 
+        "question" : "_____ is a programming language",
+        "choice1" : "python",
+        "choice2" : "cobra",
+        "choice3" : "spider-man",
+        "choice4" : "Michael Jordan",
+        "answer": 1
         
     },
     {
         "type" : "fill-in-blank",
-        "question" : "A ______ is used to store blocks of code",
-        "correct-answer" : "function",
-        "choice1" : "print('Hello World')",
-        "choice2" : "def",
-        "choice3" : "def",
-        "choice4" : "def" 
+        "question" : "A ______ hold true or false value",
+        "choice1" : "int",
+        "choice2" : "string",
+        "choice3" : "boolean",
+        "choice4" : "double",
+        "answer": 3
             
     },
     {
         "type" : "fill-in-blank",
-        "question" : "A ______ is used to store blocks of code",
-        "choice1" : "print('Hello World')",
-        "choice2" : "def",
-        "choice3" : "def",
-        "choice4" : "def" 
+        "question" : "A ______ is what is used to comment out code",
+        "choice1" : "//",
+        "choice2" : "<!-- -->",
+        "choice3" : "$",
+        "choice4" : "#",
+        "answer": 4
     }
 ]
 }
