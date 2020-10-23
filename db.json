@@ -6,40 +6,41 @@
         "choice1" : "def",
         "choice2" : "def",
         "choice3" : "def",
-        "choice4" : "def"
+        "choice4" : "def",
+        "answer": 1
          
         },
         {
          "type" : "multiple-choice",
         "question" : "What is the term for creating a list in python?",
-        "choice1" : "def",
-        "choice2" : "def",
+        "choice1" : "list",
+        "choice2" : "array",
         "choice3" : "def",
-        "choice4" : "def"
+        "choice4" : "function"
         }, 
         {
             "type" : "multiple-choice",
            "question" : "Who created python?",
            "choice1" : "Guido Van Rossum",
-           "choice2" : "def",
-           "choice3" : "def",
-           "choice4" : "def"
+           "choice2" : "LeBron James",
+           "choice3" : "Bill Gates",
+           "choice4" : "Steve Harvey"
         }, 
         {
         "type" : "multiple-choice",
         "question" : "How do you print something in Python?",
         "choice1" : "print('Hello World')",
-        "choice2" : "def",
-        "choice3" : "def",
-        "choice4" : "def"
+        "choice2" : "p('Hello World')",
+        "choice3" : "def('Hello World')",
+        "choice4" : "func('Hello World')"
         }, 
         {
         "type" : "multiple-choice",
         "question" : "Python is named after a...",
-        "choice1" : "print('Hello World')",
-        "choice2" : "def",
-        "choice3" : "def",
-        "choice4" : "def" 
+        "choice1" : "British Comedy Group",
+        "choice2" : "Movie",
+        "choice3" : "Snake",
+        "choice4" : "Rat" 
            }
     ],
 
