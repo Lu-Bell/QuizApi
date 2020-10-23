@@ -1,0 +1,118 @@
+{
+    "PymultipleChoice" :[
+        {
+        "type" : "multiple-choice",
+        "question" : "What do you use to create a function in Python?",
+        "correct-answer" : "def",
+        "incorrect-answer" :
+        [
+            "function",
+            "func",
+            "=>"
+        ] 
+        },
+        {
+         "type" : "multiple-choice",
+        "question" : "What is the term for creating a list in python?",
+        "correct-answer" : "Array",
+        "incorrect-answer" :
+        [
+            "List",
+            "<ol>",
+            "<ul>"
+        ] 
+        }, 
+        {
+            "type" : "multiple-choice",
+           "question" : "Who created python?",
+           "correct-answer" : "Guido Van Rossum",
+           "incorrect-answer" :
+           [
+               "Bill Gates",
+               "Steve Jobs",
+               "LeBron James"
+           ] 
+           }, 
+           {
+            "type" : "multiple-choice",
+           "question" : "How do you print something in Python?",
+           "correct-answer" : "print('Hello World')",
+           "incorrect-answer" :
+           [
+               "System.out.println('Hey');",
+               "console.log('Hey');",
+               "p('Python')"
+           ] 
+           }, 
+           {
+            "type" : "multiple-choice",
+           "question" : "Python is named after a...",
+           "correct-answer" : "British Comedy Group",
+           "incorrect-answer" :
+           [
+               "Snake",
+               "Me",
+               "Movie"
+           ] 
+           }
+    ],
+
+    "PyfillInBlank": [
+        {
+        "type" : "fill-in-blank",
+        "question" : "A _____ is used to store values in python",
+        "correct-answer" : "variable",
+        "incorrect-answer" :
+        [
+            "array",
+            "function",
+            "hash table"
+        ] 
+    },
+    {
+        "type" : "fill-in-blank",
+        "question" : "A ______ is used to store blocks of code",
+        "correct-answer" : "function",
+        "incorrect-answer" :
+        [
+            "array",
+            "hash table",
+            "linked list"
+        ] 
+    },
+
+    {
+        "type" : "fill-in-blank",
+        "question" : "A ______ is used to store blocks of code",
+        "correct-answer" : "function",
+        "incorrect-answer" :
+        [
+            "array",
+            "hash table",
+            "linked list"
+        ] 
+    },
+    {
+        "type" : "fill-in-blank",
+        "question" : "A ______ is used to store blocks of code",
+        "correct-answer" : "function",
+        "incorrect-answer" :
+        [
+            "array",
+            "hash table",
+            "linked list"
+        ] 
+    },
+    {
+        "type" : "fill-in-blank",
+        "question" : "A ______ is used to store blocks of code",
+        "correct-answer" : "function",
+        "incorrect-answer" :
+        [
+            "array",
+            "hash table",
+            "linked list"
+        ] 
+    }
+]
+}
