@@ -99,5 +99,87 @@
         "choice4" : "#",
         "answer": 4
     }
+],
+"PyTruenFalse" :
+[
+    {
+        "type": "true-false",
+        "question": "Python is a general purpose language",
+        "choice1": "true",
+        "choice2": "false",
+        "answer": 1
+
+    },
+    {
+        "type": "true-false",
+        "question": "Python is a strongly type language",
+        "choice1": "true",
+        "choice2": "false",
+        "answer": 2
+    },
+    {
+        "type": "true-false",
+        "question": "Python is a strongly type language",
+        "choice1": "true",
+        "choice2": "false",
+        "answer": 2
+    },
+    {
+        "type": "true-false",
+        "question": "Python is a great language",
+        "choice1": "true",
+        "choice2": "false",
+        "answer": 1
+    },
+    {
+        "type": "true-false",
+        "question": "0 is the first number in the index",
+        "choice1": "true",
+        "choice2": "false",
+        "answer": 2
+    }
+],
+"PyShort-Answer":
+[
+    {
+        "type": "short-answer",
+        "question": "Python files end with ____",
+        "choice1": "py",
+        "choice2": "java",
+        "choice3": "json",
+        "answer": 1
+    },
+    {
+        "type": "short-answer",
+        "question": "a ____ loop, loops through an array",
+        "choice1": "for",
+        "choice2": "if",
+        "choice3": "json",
+        "answer": 1
+    },
+    {
+        "type": "short-answer",
+        "question": "Central Processing Unit abbreviated is (_____)",
+        "choice1": "JAV",
+        "choice2": "WIFI",
+        "choice3": "CPU",
+        "answer": 3
+    },
+    {
+        "type": "short-answer",
+        "question": "Big ____ Notation",
+        "choice1": "S",
+        "choice2": "O",
+        "choice3": "J",
+        "answer": 2
+    },
+    {
+        "type": "short-answer",
+        "question": "You use a ____ drive to store extra data",
+        "choice1": "USB",
+        "choice2": "JSON",
+        "choice3": "PY",
+        "answer": 1
+    }
 ]
 }
